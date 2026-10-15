@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/astroplan/commit/7b1c154a79f619069bbbfe82e57eea5ce6444c5c",
       "git:hexsha": "7b1c154a79f619069bbbfe82e57eea5ce6444c5c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/astroplan/commit/305c75e3c42928f9849481e8dfe85fb61b164cb1",
