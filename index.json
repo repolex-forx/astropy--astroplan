@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "astroplan",
+  "versions": [
+    {
+      "commit": "7b1c154a79f619069bbbfe82e57eea5ce6444c5c",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:10:23.743101+00:00"
+    }
+  ]
+}
